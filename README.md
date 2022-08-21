@@ -1,8 +1,6 @@
 # IN PROGRESS...
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
 I'm Gega - Web Developer. This is the list of my React project.
 
 ### List of my Projects
